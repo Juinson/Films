@@ -1,0 +1,2 @@
+Aplikasi dibuild menggunakan ANDROID STUDIO dengan API web https://ghibliapi.herokuapp.com/films menggunakan retrofit dengan bahasa pemrograman java
+aplikasi akan menampilkan ID, JUDUL, DESCRIPSI, TAHUN RILIS, DAN DIREKTOR
